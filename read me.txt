@@ -1,0 +1,3 @@
+The player controls an avatar ressebling a python which consumes apples.The python has a specific length head,body,tale.Continually gets longer as it eats apples.
+
+The player attempts to eat all the apples by running into them with the head of the python and loses when the python runs into the screen border,his tale or itself.
